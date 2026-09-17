@@ -1,0 +1,6 @@
+{
+  "name": "Riwaayat Closet",
+  "description": "Haute heritage Indian couture, bridal lehengas, handloom Banarasi sarees, and artisanal textile archives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
